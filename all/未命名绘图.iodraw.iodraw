@@ -66,6 +66,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="22bduLt-i9W0U9ewIIWm-14" value="推理：生成预测结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="122.04347826086958" y="174.9811320754717" width="148.26811594202897" height="44.37735849056604" as="geometry" />
+        </mxCell>
+        <mxCell id="22bduLt-i9W0U9ewIIWm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="22bduLt-i9W0U9ewIIWm-6" target="22bduLt-i9W0U9ewIIWm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
