@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="22bduLt-i9W0U9ewIIWm-1" value="Flow" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="22bduLt-i9W0U9ewIIWm-1" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="20" y="40" width="790" height="245" as="geometry" />
         </mxCell>
         <mxCell id="22bduLt-i9W0U9ewIIWm-2" value="Features：特征值" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="22bduLt-i9W0U9ewIIWm-1">
@@ -19,7 +19,7 @@
         <mxCell id="22bduLt-i9W0U9ewIIWm-5" value="Compute Loss" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="22bduLt-i9W0U9ewIIWm-1">
           <mxGeometry x="521.5144927536231" y="89.67924528301887" width="91.02173913043478" height="44.37735849056604" as="geometry" />
         </mxCell>
-        <mxCell id="22bduLt-i9W0U9ewIIWm-6" value="Inference: Make Predictions" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="22bduLt-i9W0U9ewIIWm-1">
+        <mxCell id="22bduLt-i9W0U9ewIIWm-6" value="推理：生成预测结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="22bduLt-i9W0U9ewIIWm-1">
           <mxGeometry x="330.31159420289856" y="134.9811320754717" width="148.26811594202897" height="44.37735849056604" as="geometry" />
         </mxCell>
         <mxCell id="22bduLt-i9W0U9ewIIWm-7" value="Compute parameter updates" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="22bduLt-i9W0U9ewIIWm-1">
