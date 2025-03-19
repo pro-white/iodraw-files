@@ -14,7 +14,7 @@
           <mxGeometry x="139.1086956521739" y="161.7924528301887" width="148.26811594202897" height="44.37735849056604" as="geometry" />
         </mxCell>
         <mxCell id="22bduLt-i9W0U9ewIIWm-4" value="Label：&#xa;标签" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=1" vertex="1" parent="22bduLt-i9W0U9ewIIWm-1">
-          <mxGeometry x="263.3333333333333" y="36.9811320754717" width="56.67391304347826" height="44.37735849056604" as="geometry" />
+          <mxGeometry x="150.00333333333333" y="80.0011320754717" width="56.67391304347826" height="44.37735849056604" as="geometry" />
         </mxCell>
         <mxCell id="22bduLt-i9W0U9ewIIWm-5" value="计算损失" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=1" vertex="1" parent="22bduLt-i9W0U9ewIIWm-1">
           <mxGeometry x="521.5144927536231" y="89.67924528301887" width="91.02173913043478" height="44.37735849056604" as="geometry" />
