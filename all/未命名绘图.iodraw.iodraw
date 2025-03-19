@@ -16,7 +16,7 @@
         <mxCell id="22bduLt-i9W0U9ewIIWm-4" value="Label：&#xa;标签" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="22bduLt-i9W0U9ewIIWm-1">
           <mxGeometry x="263.3333333333333" y="36.9811320754717" width="56.67391304347826" height="44.37735849056604" as="geometry" />
         </mxCell>
-        <mxCell id="22bduLt-i9W0U9ewIIWm-5" value="Compute Loss" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="22bduLt-i9W0U9ewIIWm-1">
+        <mxCell id="22bduLt-i9W0U9ewIIWm-5" value="计算损失" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="22bduLt-i9W0U9ewIIWm-1">
           <mxGeometry x="521.5144927536231" y="89.67924528301887" width="91.02173913043478" height="44.37735849056604" as="geometry" />
         </mxCell>
         <mxCell id="22bduLt-i9W0U9ewIIWm-6" value="推理：生成预测结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="22bduLt-i9W0U9ewIIWm-1">
