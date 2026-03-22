@@ -14,16 +14,16 @@
           <mxGeometry x="20" y="20" width="480" height="217" as="geometry" />
         </mxCell>
         <mxCell id="AUGGPJLewijgQbZ0nDJy-58" value="载体图像" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="45" y="55" width="124" height="48" as="geometry" />
+          <mxGeometry x="30" y="103" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="AUGGPJLewijgQbZ0nDJy-59" value="腾出空间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="235" y="55" width="124" height="48" as="geometry" />
+          <mxGeometry x="196" y="40" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="AUGGPJLewijgQbZ0nDJy-60" value="图像加密" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="466" y="104" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="AUGGPJLewijgQbZ0nDJy-61" value="图像加密密钥" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="219" y="153" width="156" height="48" as="geometry" />
+          <mxGeometry x="180" y="170" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="AUGGPJLewijgQbZ0nDJy-62" value="信息隐藏" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="790" y="295" width="124" height="48" as="geometry" />
