@@ -29,10 +29,10 @@
           <mxGeometry x="510" y="410" width="210" height="149" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-9" value="电子对账与账期管理&#xa;&#xa;    • 自动汇总运费&#xa;&#xa;    • 生成电子对账单&#xa;&#xa;    • 月结/周结/欠款记录&#xa;&#xa;    • 客户账期沉淀" style="whiteSpace=wrap;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="240" y="495" width="201" height="146" as="geometry" />
+          <mxGeometry x="220" y="482" width="221" height="159" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-10" value="可信存证与数据沉淀&#xa;&#xa;    • 签收/异常/回单存证&#xa;&#xa;    • 关键节点不可篡改&#xa;&#xa;    • 运单/线路/信用数据沉淀&#xa;&#xa;    • 支撑区域协同与数据看板" style="whiteSpace=wrap;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-53" y="495" width="224" height="145" as="geometry" />
+          <mxGeometry x="-58" y="480" width="229" height="163" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-11" value="异常处理&#xa;&#xa;    • 异常原因记录&#xa;&#xa;    • 双方协商留痕&#xa;&#xa;    • 图片/回单补充&#xa;&#xa;    • 关键证据存证" style="whiteSpace=wrap;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="525.5" y="605" width="179.5" height="152" as="geometry" />
