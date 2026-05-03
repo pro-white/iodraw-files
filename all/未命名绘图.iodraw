@@ -121,7 +121,7 @@
           <mxGeometry x="555" y="30" width="172" height="74" as="geometry" />
         </mxCell>
         <mxCell id="y3MpQBnjLnUT7W5TesXu-5" value="业务服务层&#xa;订单管理 / 电子对账 /&#xa; 可信存证 / 好友运力圈" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="293.5" y="230" width="222" height="60" as="geometry" />
+          <mxGeometry x="293.5" y="225" width="222" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y3MpQBnjLnUT7W5TesXu-6" value="数据支撑层&#xa;运单数据 / 线路数据 / &#xa;签收回单 / 账期信用" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="292" y="310" width="225" height="60" as="geometry" />
