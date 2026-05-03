@@ -14,7 +14,7 @@
           <mxGeometry x="609" y="100.79" width="218" height="209.01" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-4" value="发运前运力判断&#xa;&#xa;    • 是否有自有车辆&#xa;&#xa;    • 当前车辆是否满载&#xa;&#xa;    • 是否存在同线货源&#xa;&#xa;    • 是否需要熟人协同" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="866" y="20" width="360" height="332.88" as="geometry" />
+          <mxGeometry x="866" y="20" width="360" height="333" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-5" value="本企业发运&#xa;&#xa;    • 绑定司机/车辆&#xa;&#xa;    • 确认发车时间&#xa;&#xa;    • 运单状态更新&#xa;&#xa;    • 批发商在线查货" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1045" y="625" width="247" height="198" as="geometry" />
@@ -57,7 +57,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-16" value="需要熟人企业协同" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.25;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-4" target="-sfu-g3Bn6xqtIBMI69S-6" edge="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-16" value="需要熟人企业协同" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-4" target="-sfu-g3Bn6xqtIBMI69S-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
