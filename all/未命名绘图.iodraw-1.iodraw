@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-1" value="批发商/商贸客户发货&#xa;&#xa;    • 扫码/小程序下单&#xa;&#xa;    • 填写收发货信息&#xa;&#xa;    • 选择熟悉物流企业&#xa;&#xa;    • 运费预估/账期约定" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-15" y="134" width="199" height="210.59" as="geometry" />
+          <mxGeometry x="-15" y="99.21000000000001" width="199" height="210.59" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-2" value="物流企业接单确认&#xa;&#xa;    • 核对客户与线路&#xa;&#xa;    • 确认货品/件数/重量&#xa;&#xa;    • 确认熟客价/账期&#xa;&#xa;    • 判断自运或协同" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="215" y="71.74" width="338" height="346.26" as="geometry" />
+          <mxGeometry x="215" y="31.369999999999997" width="338" height="346.26" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-3" value="语音转单与电子运单&#xa;&#xa;    • 方言语音录入&#xa;&#xa;    • 自动识别地址/货品/数量&#xa;&#xa;    • 生成电子运单&#xa;&#xa;    • 蓝牙打印/云端同步" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="606" y="97" width="218" height="209.01" as="geometry" />
+          <mxGeometry x="609" y="100.79" width="218" height="209.01" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-4" value="发运前运力判断&#xa;&#xa;    • 是否有自有车辆&#xa;&#xa;    • 当前车辆是否满载&#xa;&#xa;    • 是否存在同线货源&#xa;&#xa;    • 是否需要熟人协同" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="877" y="38.06" width="371" height="332.88" as="geometry" />
