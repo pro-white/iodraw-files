@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="rvgYzWhUXiV4Xf9bA7OB">
-    <mxGraphModel dx="2577" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1667" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,25 +17,25 @@
           <mxGeometry x="911" y="51.5" width="261" height="261" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-5" value="本企业发运&#xa;&#xa;    • 绑定司机/车辆&#xa;&#xa;    • 确认发车时间&#xa;&#xa;    • 运单状态更新&#xa;&#xa;    • 批发商在线查货" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="949" y="608" width="185" height="141" as="geometry" />
+          <mxGeometry x="1129" y="608" width="185" height="141" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-6" value="好友运力圈协同&#xa;&#xa;    • 查看好友企业线路&#xa;&#xa;    • 查看开放剩余仓位&#xa;&#xa;    • 发起搭货申请&#xa;&#xa;    • 人工确认后生成协同运单" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="917" y="419" width="249" height="139" as="geometry" />
+          <mxGeometry x="1097" y="419" width="249" height="139" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-7" value="运输追踪与异常反馈&#xa;&#xa;    • 运输节点更新&#xa;&#xa;    • 查货状态同步&#xa;&#xa;    • 货损/延误/改地址记录&#xa;&#xa;    • 图片/备注上传" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="600" y="510" width="235" height="160" as="geometry" />
+          <mxGeometry x="780" y="510" width="235" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-8" value="终端签收与回单上传&#xa;&#xa;    • 收货人确认签收&#xa;&#xa;    • 司机上传回单&#xa;&#xa;    • 签收节点留痕&#xa;&#xa;    • 回单线上可查" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="330" y="420" width="205" height="139" as="geometry" />
+          <mxGeometry x="510" y="420" width="205" height="139" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-9" value="电子对账与账期管理&#xa;&#xa;    • 自动汇总运费&#xa;&#xa;    • 生成电子对账单&#xa;&#xa;    • 月结/周结/欠款记录&#xa;&#xa;    • 客户账期沉淀" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="63" y="500" width="219" height="150" as="geometry" />
+          <mxGeometry x="243" y="500" width="219" height="150" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-10" value="可信存证与数据沉淀&#xa;&#xa;    • 签收/异常/回单存证&#xa;&#xa;    • 关键节点不可篡改&#xa;&#xa;    • 运单/线路/信用数据沉淀&#xa;&#xa;    • 支撑区域协同与数据看板" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-260" y="490" width="251" height="150" as="geometry" />
+          <mxGeometry x="-80" y="490" width="251" height="150" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-11" value="异常处理&#xa;&#xa;    • 异常原因记录&#xa;&#xa;    • 双方协商留痕&#xa;&#xa;    • 图片/回单补充&#xa;&#xa;    • 关键证据存证" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="343" y="609" width="178" height="151" as="geometry" />
+          <mxGeometry x="523" y="609" width="178" height="151" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-1" target="-sfu-g3Bn6xqtIBMI69S-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -52,7 +52,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-15" value="自有运力可承运" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=1;entryX=0.75;entryY=0;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-4" target="-sfu-g3Bn6xqtIBMI69S-6" edge="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-15" value="自有运力可承运" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.75;entryY=0;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-4" target="-sfu-g3Bn6xqtIBMI69S-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -65,7 +65,7 @@
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;rounded=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-6" target="-sfu-g3Bn6xqtIBMI69S-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="1556" y="150" as="targetPoint" />
+            <mxPoint x="1736" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.75;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-5" target="-sfu-g3Bn6xqtIBMI69S-7" edge="1">
@@ -86,7 +86,7 @@
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-21" value="" style="curved=1;startArrow=none;endArrow=block;entryX=1;entryY=0.5;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-9" target="-sfu-g3Bn6xqtIBMI69S-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="60" y="575" as="sourcePoint" />
+            <mxPoint x="240" y="575" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-22" value="出现异常" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-7" target="-sfu-g3Bn6xqtIBMI69S-11" edge="1">
