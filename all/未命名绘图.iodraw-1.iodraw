@@ -4,98 +4,98 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-1" value="批发商/商贸客户发货&#xa;&#xa;    • 扫码/小程序下单&#xa;&#xa;    • 填写收发货信息&#xa;&#xa;    • 选择熟悉物流企业&#xa;&#xa;    • 运费预估/账期约定" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-1" value="批发商/商贸客户发货&#xa;&#xa;    • 扫码/小程序下单&#xa;&#xa;    • 填写收发货信息&#xa;&#xa;    • 选择熟悉物流企业&#xa;&#xa;    • 运费预估/账期约定" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-15" y="99.21000000000001" width="199" height="210.59" as="geometry" />
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-2" value="物流企业接单确认&#xa;&#xa;    • 核对客户与线路&#xa;&#xa;    • 确认货品/件数/重量&#xa;&#xa;    • 确认熟客价/账期&#xa;&#xa;    • 判断自运或协同" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-2" value="物流企业接单确认&#xa;&#xa;    • 核对客户与线路&#xa;&#xa;    • 确认货品/件数/重量&#xa;&#xa;    • 确认熟客价/账期&#xa;&#xa;    • 判断自运或协同" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="215" y="31.369999999999997" width="338" height="346.26" as="geometry" />
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-3" value="语音转单与电子运单&#xa;&#xa;    • 方言语音录入&#xa;&#xa;    • 自动识别地址/货品/数量&#xa;&#xa;    • 生成电子运单&#xa;&#xa;    • 蓝牙打印/云端同步" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-3" value="语音转单与电子运单&#xa;&#xa;    • 方言语音录入&#xa;&#xa;    • 自动识别地址/货品/数量&#xa;&#xa;    • 生成电子运单&#xa;&#xa;    • 蓝牙打印/云端同步" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="609" y="100.79" width="218" height="209.01" as="geometry" />
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-4" value="发运前运力判断&#xa;&#xa;    • 是否有自有车辆&#xa;&#xa;    • 当前车辆是否满载&#xa;&#xa;    • 是否存在同线货源&#xa;&#xa;    • 是否需要熟人协同" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-4" value="发运前运力判断&#xa;&#xa;    • 是否有自有车辆&#xa;&#xa;    • 当前车辆是否满载&#xa;&#xa;    • 是否存在同线货源&#xa;&#xa;    • 是否需要熟人协同" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="887" y="38.8" width="360" height="333" as="geometry" />
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-5" value="本企业发运&#xa;&#xa;    • 绑定司机/车辆&#xa;&#xa;    • 确认发车时间&#xa;&#xa;    • 运单状态更新&#xa;&#xa;    • 批发商在线查货" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-5" value="本企业发运&#xa;&#xa;    • 绑定司机/车辆&#xa;&#xa;    • 确认发车时间&#xa;&#xa;    • 运单状态更新&#xa;&#xa;    • 批发商在线查货" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="1045" y="625" width="247" height="198" as="geometry" />
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-6" value="好友运力圈协同&#xa;&#xa;    • 查看好友企业线路&#xa;&#xa;    • 查看开放剩余仓位&#xa;&#xa;    • 发起搭货申请&#xa;&#xa;    • 人工确认后生成协同运单" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-6" value="好友运力圈协同&#xa;&#xa;    • 查看好友企业线路&#xa;&#xa;    • 查看开放剩余仓位&#xa;&#xa;    • 发起搭货申请&#xa;&#xa;    • 人工确认后生成协同运单" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="1029" y="404" width="285" height="203" as="geometry" />
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-7" value="运输追踪与异常反馈&#xa;&#xa;    • 运输节点更新&#xa;&#xa;    • 查货状态同步&#xa;&#xa;    • 货损/延误/改地址记录&#xa;&#xa;    • 图片/备注上传" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-7" value="运输追踪与异常反馈&#xa;&#xa;    • 运输节点更新&#xa;&#xa;    • 查货状态同步&#xa;&#xa;    • 货损/延误/改地址记录&#xa;&#xa;    • 图片/备注上传" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="780" y="469" width="186" height="217" as="geometry" />
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-8" value="终端签收与回单上传&#xa;&#xa;    • 收货人确认签收&#xa;&#xa;    • 司机上传回单&#xa;&#xa;    • 签收节点留痕&#xa;&#xa;    • 回单线上可查" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-8" value="终端签收与回单上传&#xa;&#xa;    • 收货人确认签收&#xa;&#xa;    • 司机上传回单&#xa;&#xa;    • 签收节点留痕&#xa;&#xa;    • 回单线上可查" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="513" y="356" width="210" height="209" as="geometry" />
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-9" value="电子对账与账期管理&#xa;&#xa;    • 自动汇总运费&#xa;&#xa;    • 生成电子对账单&#xa;&#xa;    • 月结/周结/欠款记录&#xa;&#xa;    • 客户账期沉淀" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-9" value="电子对账与账期管理&#xa;&#xa;    • 自动汇总运费&#xa;&#xa;    • 生成电子对账单&#xa;&#xa;    • 月结/周结/欠款记录&#xa;&#xa;    • 客户账期沉淀" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="223" y="474" width="221" height="209" as="geometry" />
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-10" value="可信存证与数据沉淀&#xa;&#xa;    • 签收/异常/回单存证&#xa;&#xa;    • 关键节点不可篡改&#xa;&#xa;    • 运单/线路/信用数据沉淀&#xa;&#xa;    • 支撑区域协同与数据看板" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-10" value="可信存证与数据沉淀&#xa;&#xa;    • 签收/异常/回单存证&#xa;&#xa;    • 关键节点不可篡改&#xa;&#xa;    • 运单/线路/信用数据沉淀&#xa;&#xa;    • 支撑区域协同与数据看板" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-58" y="467" width="229" height="223" as="geometry" />
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-11" value="异常处理&#xa;&#xa;    • 异常原因记录&#xa;&#xa;    • 双方协商留痕&#xa;&#xa;    • 图片/回单补充&#xa;&#xa;    • 关键证据存证" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-11" value="异常处理&#xa;&#xa;    • 异常原因记录&#xa;&#xa;    • 双方协商留痕&#xa;&#xa;    • 图片/回单补充&#xa;&#xa;    • 关键证据存证" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="503" y="590" width="179.5" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=18;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-1" target="-sfu-g3Bn6xqtIBMI69S-2" edge="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=19;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-1" target="-sfu-g3Bn6xqtIBMI69S-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=18;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-2" target="-sfu-g3Bn6xqtIBMI69S-3" edge="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=19;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-2" target="-sfu-g3Bn6xqtIBMI69S-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=18;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-3" target="-sfu-g3Bn6xqtIBMI69S-4" edge="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=19;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-3" target="-sfu-g3Bn6xqtIBMI69S-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-15" value="自有运力可承运" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=0.621;entryX=0.75;entryY=0;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=18;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-4" target="-sfu-g3Bn6xqtIBMI69S-6" edge="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-15" value="自有运力可承运" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=0.621;entryX=0.75;entryY=0;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=19;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-4" target="-sfu-g3Bn6xqtIBMI69S-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-16" value="需要熟人企业协同" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-4" target="-sfu-g3Bn6xqtIBMI69S-6" edge="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-16" value="需要熟人企业协同" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=19;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-4" target="-sfu-g3Bn6xqtIBMI69S-6" edge="1">
           <mxGeometry x="-0.2596" y="-49" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;rounded=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-6" target="-sfu-g3Bn6xqtIBMI69S-7" edge="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;rounded=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=19;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-6" target="-sfu-g3Bn6xqtIBMI69S-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="1739" y="156" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.75;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-5" target="-sfu-g3Bn6xqtIBMI69S-7" edge="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.75;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=19;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-5" target="-sfu-g3Bn6xqtIBMI69S-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.25;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-7" target="-sfu-g3Bn6xqtIBMI69S-8" edge="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.25;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontSize=19;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-7" target="-sfu-g3Bn6xqtIBMI69S-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.25;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-8" target="-sfu-g3Bn6xqtIBMI69S-9" edge="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.25;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=19;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-8" target="-sfu-g3Bn6xqtIBMI69S-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-21" value="" style="curved=1;startArrow=none;endArrow=block;entryX=1;entryY=0.5;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-9" target="-sfu-g3Bn6xqtIBMI69S-10" edge="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-21" value="" style="curved=1;startArrow=none;endArrow=block;entryX=1;entryY=0.5;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=19;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-9" target="-sfu-g3Bn6xqtIBMI69S-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="243" y="581" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-22" value="出现异常" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-7" target="-sfu-g3Bn6xqtIBMI69S-11" edge="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-22" value="出现异常" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontSize=19;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-7" target="-sfu-g3Bn6xqtIBMI69S-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sfu-g3Bn6xqtIBMI69S-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.75;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-11" target="-sfu-g3Bn6xqtIBMI69S-9" edge="1">
+        <mxCell id="-sfu-g3Bn6xqtIBMI69S-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.75;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontSize=19;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-11" target="-sfu-g3Bn6xqtIBMI69S-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
