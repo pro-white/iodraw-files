@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="rvgYzWhUXiV4Xf9bA7OB">
-    <mxGraphModel dx="1235" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="1900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,13 +29,13 @@
           <mxGeometry x="2006" width="205" height="139" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-9" value="电子对账与账期管理&#xa;&#xa;    • 自动汇总运费&#xa;&#xa;    • 生成电子对账单&#xa;&#xa;    • 月结/周结/欠款记录&#xa;&#xa;    • 客户账期沉淀" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2260" y="104" width="219" height="119" as="geometry" />
+          <mxGeometry x="2260" y="90" width="219" height="150" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-10" value="可信存证与数据沉淀&#xa;&#xa;    • 签收/异常/回单存证&#xa;&#xa;    • 关键节点不可篡改&#xa;&#xa;    • 运单/线路/信用数据沉淀&#xa;&#xa;    • 支撑区域协同与数据看板" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2529" y="104" width="251" height="119" as="geometry" />
+          <mxGeometry x="2529" y="90" width="251" height="150" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-11" value="异常处理&#xa;&#xa;    • 异常原因记录&#xa;&#xa;    • 双方协商留痕&#xa;&#xa;    • 图片/回单补充&#xa;&#xa;    • 关键证据存证" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2019" y="189" width="178" height="119" as="geometry" />
+          <mxGeometry x="2019" y="189" width="178" height="151" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-1" target="-sfu-g3Bn6xqtIBMI69S-2" edge="1">
           <mxGeometry relative="1" as="geometry">
