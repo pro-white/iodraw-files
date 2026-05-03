@@ -11,10 +11,10 @@
           <mxGeometry x="325" y="75" width="235" height="246" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-3" value="语音转单与电子运单&#xa;&#xa;    • 方言语音录入&#xa;&#xa;    • 自动识别地址/货品/数量&#xa;&#xa;    • 生成电子运单&#xa;&#xa;    • 蓝牙打印/云端同步" style="whiteSpace=wrap;strokeWidth=2;fontSize=10.5;" parent="1" vertex="1">
-          <mxGeometry x="665" y="125" width="196" height="135" as="geometry" />
+          <mxGeometry x="626" y="130.5" width="196" height="135" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-4" value="发运前运力判断&#xa;&#xa;    • 是否有自有车辆&#xa;&#xa;    • 当前车辆是否满载&#xa;&#xa;    • 是否存在同线货源&#xa;&#xa;    • 是否需要熟人协同" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=10.5;" parent="1" vertex="1">
-          <mxGeometry x="911" y="51.5" width="261" height="261" as="geometry" />
+          <mxGeometry x="888" y="86.25" width="217" height="223.5" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-5" value="本企业发运&#xa;&#xa;    • 绑定司机/车辆&#xa;&#xa;    • 确认发车时间&#xa;&#xa;    • 运单状态更新&#xa;&#xa;    • 批发商在线查货" style="whiteSpace=wrap;strokeWidth=2;fontSize=10.5;" parent="1" vertex="1">
           <mxGeometry x="1129" y="608" width="185" height="141" as="geometry" />
