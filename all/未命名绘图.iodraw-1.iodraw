@@ -8,7 +8,7 @@
           <mxGeometry x="-15" y="104.78" width="199" height="199.44" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-2" value="物流企业接单确认&#xa;&#xa;    • 核对客户与线路&#xa;&#xa;    • 确认货品/件数/重量&#xa;&#xa;    • 确认熟客价/账期&#xa;&#xa;    • 判断自运或协同" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="232" y="69.75" width="338" height="269.51" as="geometry" />
+          <mxGeometry x="215" y="71.74" width="338" height="346.26" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-3" value="语音转单与电子运单&#xa;&#xa;    • 方言语音录入&#xa;&#xa;    • 自动识别地址/货品/数量&#xa;&#xa;    • 生成电子运单&#xa;&#xa;    • 蓝牙打印/云端同步" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="609" y="108.99" width="218" height="191.03" as="geometry" />
