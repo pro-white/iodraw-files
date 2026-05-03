@@ -23,19 +23,19 @@
           <mxGeometry x="1057" y="418" width="207" height="182" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-7" value="运输追踪与异常反馈&#xa;&#xa;    • 运输节点更新&#xa;&#xa;    • 查货状态同步&#xa;&#xa;    • 货损/延误/改地址记录&#xa;&#xa;    • 图片/备注上传" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="791" y="484" width="186" height="186" as="geometry" />
+          <mxGeometry x="791" y="479" width="186" height="191" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-8" value="终端签收与回单上传&#xa;&#xa;    • 收货人确认签收&#xa;&#xa;    • 司机上传回单&#xa;&#xa;    • 签收节点留痕&#xa;&#xa;    • 回单线上可查" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="513" y="396" width="210" height="169" as="geometry" />
+          <mxGeometry x="513" y="382" width="210" height="183" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-9" value="电子对账与账期管理&#xa;&#xa;    • 自动汇总运费&#xa;&#xa;    • 生成电子对账单&#xa;&#xa;    • 月结/周结/欠款记录&#xa;&#xa;    • 客户账期沉淀" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="223" y="488" width="221" height="175" as="geometry" />
+          <mxGeometry x="223" y="474" width="221" height="189" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-10" value="可信存证与数据沉淀&#xa;&#xa;    • 签收/异常/回单存证&#xa;&#xa;    • 关键节点不可篡改&#xa;&#xa;    • 运单/线路/信用数据沉淀&#xa;&#xa;    • 支撑区域协同与数据看板" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-55" y="486" width="229" height="174" as="geometry" />
+          <mxGeometry x="-55" y="469" width="229" height="191" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-11" value="异常处理&#xa;&#xa;    • 异常原因记录&#xa;&#xa;    • 双方协商留痕&#xa;&#xa;    • 图片/回单补充&#xa;&#xa;    • 关键证据存证" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="528.5" y="611" width="179.5" height="178" as="geometry" />
+          <mxGeometry x="528.5" y="595" width="179.5" height="194" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=16;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-1" target="-sfu-g3Bn6xqtIBMI69S-2" edge="1">
           <mxGeometry relative="1" as="geometry">
