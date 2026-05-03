@@ -124,10 +124,10 @@
           <mxGeometry x="293.5" y="250" width="222" height="84" as="geometry" />
         </mxCell>
         <mxCell id="y3MpQBnjLnUT7W5TesXu-6" value="数据支撑层&#xa;运单数据 / 线路数据 / &#xa;签收回单 / 账期信用" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="295" y="421" width="225" height="84" as="geometry" />
+          <mxGeometry x="292" y="360" width="225" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="y3MpQBnjLnUT7W5TesXu-7" value="拓展应用层&#xa;区域运力池 / 信用服务 / 园区数据看板" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="290" y="530" width="235" height="84" as="geometry" />
+        <mxCell id="y3MpQBnjLnUT7W5TesXu-7" value="拓展应用层&#xa;区域运力池 / 信用服务 /&#xa; 园区数据看板" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="287" y="470" width="235" height="84" as="geometry" />
         </mxCell>
         <mxCell id="y3MpQBnjLnUT7W5TesXu-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.22;rounded=0;fontSize=14;" edge="1" parent="1" source="y3MpQBnjLnUT7W5TesXu-2" target="y3MpQBnjLnUT7W5TesXu-1">
           <mxGeometry relative="1" as="geometry">
