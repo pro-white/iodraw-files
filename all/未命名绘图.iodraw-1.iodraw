@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-1" value="批发商/商贸客户发货&#xa;&#xa;    • 扫码/小程序下单&#xa;&#xa;    • 填写收发货信息&#xa;&#xa;    • 选择熟悉物流企业&#xa;&#xa;    • 运费预估/账期约定" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-15" y="145.15" width="199" height="199.44" as="geometry" />
+          <mxGeometry x="-15" y="134" width="199" height="210.59" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-2" value="物流企业接单确认&#xa;&#xa;    • 核对客户与线路&#xa;&#xa;    • 确认货品/件数/重量&#xa;&#xa;    • 确认熟客价/账期&#xa;&#xa;    • 判断自运或协同" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="215" y="71.74" width="338" height="346.26" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-3" value="语音转单与电子运单&#xa;&#xa;    • 方言语音录入&#xa;&#xa;    • 自动识别地址/货品/数量&#xa;&#xa;    • 生成电子运单&#xa;&#xa;    • 蓝牙打印/云端同步" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="609" y="108.99" width="218" height="191.03" as="geometry" />
+          <mxGeometry x="606" y="97" width="218" height="209.01" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-4" value="发运前运力判断&#xa;&#xa;    • 是否有自有车辆&#xa;&#xa;    • 当前车辆是否满载&#xa;&#xa;    • 是否存在同线货源&#xa;&#xa;    • 是否需要熟人协同" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="877" y="38.06" width="371" height="332.88" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="1029" y="404" width="285" height="203" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-7" value="运输追踪与异常反馈&#xa;&#xa;    • 运输节点更新&#xa;&#xa;    • 查货状态同步&#xa;&#xa;    • 货损/延误/改地址记录&#xa;&#xa;    • 图片/备注上传" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="791" y="453" width="186" height="217" as="geometry" />
+          <mxGeometry x="780" y="469" width="186" height="217" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-8" value="终端签收与回单上传&#xa;&#xa;    • 收货人确认签收&#xa;&#xa;    • 司机上传回单&#xa;&#xa;    • 签收节点留痕&#xa;&#xa;    • 回单线上可查" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="513" y="356" width="210" height="209" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="223" y="474" width="221" height="189" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-10" value="可信存证与数据沉淀&#xa;&#xa;    • 签收/异常/回单存证&#xa;&#xa;    • 关键节点不可篡改&#xa;&#xa;    • 运单/线路/信用数据沉淀&#xa;&#xa;    • 支撑区域协同与数据看板" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-55" y="469" width="229" height="191" as="geometry" />
+          <mxGeometry x="-56" y="460" width="229" height="223" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-11" value="异常处理&#xa;&#xa;    • 异常原因记录&#xa;&#xa;    • 双方协商留痕&#xa;&#xa;    • 图片/回单补充&#xa;&#xa;    • 关键证据存证" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="528.5" y="595" width="179.5" height="215" as="geometry" />
