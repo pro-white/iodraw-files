@@ -108,6 +108,61 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="y3MpQBnjLnUT7W5TesXu-1" value="应用服务器&#xa;数据管理服务&#xa;对象存储/防火墙" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="314" y="154" width="182" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="y3MpQBnjLnUT7W5TesXu-2" value="边缘智能终端侧&#xa;蓝牙打印机 / PDA&#xa;GPS定位 / 温湿度传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="234" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="y3MpQBnjLnUT7W5TesXu-3" value="第三方对接节点&#xa;同城配送平台接口&#xa;商贸ERP / 金融接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="304" y="20" width="201" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="y3MpQBnjLnUT7W5TesXu-4" value="终端操作终端&#xa;微信小程序&#xa;PC管理端 / APP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="555" y="20" width="172" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="y3MpQBnjLnUT7W5TesXu-5" value="业务服务层&#xa;订单管理 / 电子对账 / 可信存证 / 好友运力圈" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="294" y="287" width="222" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="y3MpQBnjLnUT7W5TesXu-6" value="数据支撑层&#xa;运单数据 / 线路数据 / 签收回单 / 账期信用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="295" y="421" width="219" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="y3MpQBnjLnUT7W5TesXu-7" value="拓展应用层&#xa;区域运力池 / 信用服务 / 园区数据看板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="287" y="554" width="235" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="y3MpQBnjLnUT7W5TesXu-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.22;rounded=0;" edge="1" parent="1" source="y3MpQBnjLnUT7W5TesXu-2" target="y3MpQBnjLnUT7W5TesXu-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="137" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3MpQBnjLnUT7W5TesXu-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="y3MpQBnjLnUT7W5TesXu-3" target="y3MpQBnjLnUT7W5TesXu-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3MpQBnjLnUT7W5TesXu-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.19;rounded=0;" edge="1" parent="1" source="y3MpQBnjLnUT7W5TesXu-4" target="y3MpQBnjLnUT7W5TesXu-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="641" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3MpQBnjLnUT7W5TesXu-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="y3MpQBnjLnUT7W5TesXu-1" target="y3MpQBnjLnUT7W5TesXu-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3MpQBnjLnUT7W5TesXu-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="y3MpQBnjLnUT7W5TesXu-5" target="y3MpQBnjLnUT7W5TesXu-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3MpQBnjLnUT7W5TesXu-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="y3MpQBnjLnUT7W5TesXu-6" target="y3MpQBnjLnUT7W5TesXu-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
