@@ -54,17 +54,12 @@
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-15" value="自有运力可承运" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.69;entryX=0.75;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-4" target="-sfu-g3Bn6xqtIBMI69S-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1263" y="248" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-16" value="需要熟人企业协同" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.25;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-4" target="-sfu-g3Bn6xqtIBMI69S-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1000" y="247" />
-              <mxPoint x="1263" y="79" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.07;entryY=0;rounded=0;" parent="1" source="-sfu-g3Bn6xqtIBMI69S-6" target="-sfu-g3Bn6xqtIBMI69S-7" edge="1">
