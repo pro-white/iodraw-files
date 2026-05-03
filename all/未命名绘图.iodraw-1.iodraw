@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="rvgYzWhUXiV4Xf9bA7OB">
-    <mxGraphModel dx="1235" dy="1900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,16 +17,16 @@
           <mxGeometry x="911" y="51.5" width="261" height="261" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-5" value="本企业发运&#xa;&#xa;    • 绑定司机/车辆&#xa;&#xa;    • 确认发车时间&#xa;&#xa;    • 运单状态更新&#xa;&#xa;    • 批发商在线查货" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1386" y="189" width="185" height="119" as="geometry" />
+          <mxGeometry x="1386" y="189" width="185" height="141" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-6" value="好友运力圈协同&#xa;&#xa;    • 查看好友企业线路&#xa;&#xa;    • 查看开放剩余仓位&#xa;&#xa;    • 发起搭货申请&#xa;&#xa;    • 人工确认后生成协同运单" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1354" width="249" height="139" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-7" value="运输追踪与异常反馈&#xa;&#xa;    • 运输节点更新&#xa;&#xa;    • 查货状态同步&#xa;&#xa;    • 货损/延误/改地址记录&#xa;&#xa;    • 图片/备注上传" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1653" y="104" width="235" height="119" as="geometry" />
+          <mxGeometry x="1653" y="90" width="235" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-8" value="终端签收与回单上传&#xa;&#xa;    • 收货人确认签收&#xa;&#xa;    • 司机上传回单&#xa;&#xa;    • 签收节点留痕&#xa;&#xa;    • 回单线上可查" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2006" y="20" width="205" height="119" as="geometry" />
+          <mxGeometry x="2006" width="205" height="139" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-9" value="电子对账与账期管理&#xa;&#xa;    • 自动汇总运费&#xa;&#xa;    • 生成电子对账单&#xa;&#xa;    • 月结/周结/欠款记录&#xa;&#xa;    • 客户账期沉淀" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2260" y="104" width="219" height="119" as="geometry" />
