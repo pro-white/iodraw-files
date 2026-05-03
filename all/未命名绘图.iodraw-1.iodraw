@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-1" value="批发商/商贸客户发货&#xa;&#xa;    • 扫码/小程序下单&#xa;&#xa;    • 填写收发货信息&#xa;&#xa;    • 选择熟悉物流企业&#xa;&#xa;    • 运费预估/账期约定" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-15" y="112" width="199" height="169.44" as="geometry" />
+          <mxGeometry x="-15" y="104.78" width="199" height="199.44" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-2" value="物流企业接单确认&#xa;&#xa;    • 核对客户与线路&#xa;&#xa;    • 确认货品/件数/重量&#xa;&#xa;    • 确认熟客价/账期&#xa;&#xa;    • 判断自运或协同" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="226" y="65" width="338" height="269.51" as="geometry" />
+          <mxGeometry x="232" y="69.75" width="338" height="269.51" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-3" value="语音转单与电子运单&#xa;&#xa;    • 方言语音录入&#xa;&#xa;    • 自动识别地址/货品/数量&#xa;&#xa;    • 生成电子运单&#xa;&#xa;    • 蓝牙打印/云端同步" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="609" y="108.99" width="218" height="191.03" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="513" y="382" width="210" height="183" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-9" value="电子对账与账期管理&#xa;&#xa;    • 自动汇总运费&#xa;&#xa;    • 生成电子对账单&#xa;&#xa;    • 月结/周结/欠款记录&#xa;&#xa;    • 客户账期沉淀" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="223" y="474" width="221" height="189" as="geometry" />
+          <mxGeometry x="223" y="492" width="221" height="189" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-10" value="可信存证与数据沉淀&#xa;&#xa;    • 签收/异常/回单存证&#xa;&#xa;    • 关键节点不可篡改&#xa;&#xa;    • 运单/线路/信用数据沉淀&#xa;&#xa;    • 支撑区域协同与数据看板" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-55" y="469" width="229" height="191" as="geometry" />
@@ -98,6 +98,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uKVA8xh8NZl_WC5ueyTH-16" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1065.9231144831729" y="864.307673527644" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
