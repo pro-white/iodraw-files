@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-1" value="批发商/商贸客户发货&#xa;&#xa;    • 扫码/小程序下单&#xa;&#xa;    • 填写收发货信息&#xa;&#xa;    • 选择熟悉物流企业&#xa;&#xa;    • 运费预估/账期约定" style="whiteSpace=wrap;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="85" y="125.5" width="184" height="145" as="geometry" />
+          <mxGeometry x="67" y="116" width="202" height="154.5" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-2" value="物流企业接单确认&#xa;&#xa;    • 核对客户与线路&#xa;&#xa;    • 确认货品/件数/重量&#xa;&#xa;    • 确认熟客价/账期&#xa;&#xa;    • 判断自运或协同" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="304" y="76" width="256" height="245" as="geometry" />
@@ -17,10 +17,10 @@
           <mxGeometry x="888" y="82" width="252" height="227.75" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-5" value="本企业发运&#xa;&#xa;    • 绑定司机/车辆&#xa;&#xa;    • 确认发车时间&#xa;&#xa;    • 运单状态更新&#xa;&#xa;    • 批发商在线查货" style="whiteSpace=wrap;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1079" y="610" width="162" height="139" as="geometry" />
+          <mxGeometry x="1068.5" y="596" width="178" height="153" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-6" value="好友运力圈协同&#xa;&#xa;    • 查看好友企业线路&#xa;&#xa;    • 查看开放剩余仓位&#xa;&#xa;    • 发起搭货申请&#xa;&#xa;    • 人工确认后生成协同运单" style="whiteSpace=wrap;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1067" y="437" width="194" height="132" as="geometry" />
+          <mxGeometry x="1054" y="412" width="207" height="157" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-7" value="运输追踪与异常反馈&#xa;&#xa;    • 运输节点更新&#xa;&#xa;    • 查货状态同步&#xa;&#xa;    • 货损/延误/改地址记录&#xa;&#xa;    • 图片/备注上传" style="whiteSpace=wrap;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="793" y="517" width="178" height="141" as="geometry" />
