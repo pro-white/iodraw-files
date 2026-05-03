@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="rvgYzWhUXiV4Xf9bA7OB">
-    <mxGraphModel dx="1932" dy="654" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2140" dy="776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="626" y="130.5" width="196" height="135" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-4" value="发运前运力判断&#xa;&#xa;    • 是否有自有车辆&#xa;&#xa;    • 当前车辆是否满载&#xa;&#xa;    • 是否存在同线货源&#xa;&#xa;    • 是否需要熟人协同" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="888" y="86.25" width="217" height="223.5" as="geometry" />
+          <mxGeometry x="888" y="82" width="252" height="227.75" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-5" value="本企业发运&#xa;&#xa;    • 绑定司机/车辆&#xa;&#xa;    • 确认发车时间&#xa;&#xa;    • 运单状态更新&#xa;&#xa;    • 批发商在线查货" style="whiteSpace=wrap;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1079" y="610" width="162" height="139" as="geometry" />
