@@ -14,7 +14,7 @@
           <mxGeometry x="605" y="115.99" width="218" height="177.04" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-4" value="发运前运力判断&#xa;&#xa;    • 是否有自有车辆&#xa;&#xa;    • 当前车辆是否满载&#xa;&#xa;    • 是否存在同线货源&#xa;&#xa;    • 是否需要熟人协同" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="852" y="77" width="359" height="238.75" as="geometry" />
+          <mxGeometry x="852" y="83" width="371" height="232.75" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-5" value="本企业发运&#xa;&#xa;    • 绑定司机/车辆&#xa;&#xa;    • 确认发车时间&#xa;&#xa;    • 运单状态更新&#xa;&#xa;    • 批发商在线查货" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="1071.5" y="602" width="178" height="153" as="geometry" />
@@ -29,10 +29,10 @@
           <mxGeometry x="513" y="416" width="210" height="149" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-9" value="电子对账与账期管理&#xa;&#xa;    • 自动汇总运费&#xa;&#xa;    • 生成电子对账单&#xa;&#xa;    • 月结/周结/欠款记录&#xa;&#xa;    • 客户账期沉淀" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="223" y="488" width="221" height="159" as="geometry" />
+          <mxGeometry x="223" y="488" width="221" height="175" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-10" value="可信存证与数据沉淀&#xa;&#xa;    • 签收/异常/回单存证&#xa;&#xa;    • 关键节点不可篡改&#xa;&#xa;    • 运单/线路/信用数据沉淀&#xa;&#xa;    • 支撑区域协同与数据看板" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="-55" y="486" width="229" height="163" as="geometry" />
+          <mxGeometry x="-55" y="486" width="229" height="174" as="geometry" />
         </mxCell>
         <mxCell id="-sfu-g3Bn6xqtIBMI69S-11" value="异常处理&#xa;&#xa;    • 异常原因记录&#xa;&#xa;    • 双方协商留痕&#xa;&#xa;    • 图片/回单补充&#xa;&#xa;    • 关键证据存证" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="528.5" y="611" width="179.5" height="152" as="geometry" />
